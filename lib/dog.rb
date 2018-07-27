@@ -2,7 +2,7 @@
 class Dog 
 end 
 
-fidob = Dog.new 
+fido = Dog.new 
 snoppy = Dog.new 
 lassie = Dog.new 
 
